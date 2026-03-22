@@ -1,2 +1,0 @@
-# WorldFoods
-Site de receitas
